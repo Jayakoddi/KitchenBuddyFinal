@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Cooking101</string>
+
+    <string name="breakfast">Breakfast</string>
+    <string name="lunch">Lunch/Dinner</string>
+    <string name="salad">Salads</string>
+    <string name="dessert">Dessert</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

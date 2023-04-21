@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "537846990774",
+    "firebase_url": "https://kitchenbuddy-58510-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "kitchenbuddy-58510",
+    "storage_bucket": "kitchenbuddy-58510.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:537846990774:android:e3deade4c1c5a6c2272317",
+        "android_client_info": {
+          "package_name": "com.example.cooking101"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "537846990774-ag7t0p4atoi65g2bh0lvvcittn1rqgut.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAy-hS_tR8f8hEoSAbw0kuVwYg0bRBinU4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "537846990774-ag7t0p4atoi65g2bh0lvvcittn1rqgut.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:537846990774:android:1718b795cd32b2cf272317",
+        "android_client_info": {
+          "package_name": "com.example.kitchenbuddy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "537846990774-ag7t0p4atoi65g2bh0lvvcittn1rqgut.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAy-hS_tR8f8hEoSAbw0kuVwYg0bRBinU4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "537846990774-ag7t0p4atoi65g2bh0lvvcittn1rqgut.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:537846990774:android:393439d40e1d47c8272317",
+        "android_client_info": {
+          "package_name": "com.example.readrecipedatabase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "537846990774-ag7t0p4atoi65g2bh0lvvcittn1rqgut.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAy-hS_tR8f8hEoSAbw0kuVwYg0bRBinU4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "537846990774-ag7t0p4atoi65g2bh0lvvcittn1rqgut.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
